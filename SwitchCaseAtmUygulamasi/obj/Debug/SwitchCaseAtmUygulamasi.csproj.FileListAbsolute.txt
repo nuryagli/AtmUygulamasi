@@ -1,0 +1,8 @@
+D:\c#\ShortVeriTipi\SwitchCaseAtmUygulamasi\bin\Debug\SwitchCaseAtmUygulamasi.exe.config
+D:\c#\ShortVeriTipi\SwitchCaseAtmUygulamasi\bin\Debug\SwitchCaseAtmUygulamasi.exe
+D:\c#\ShortVeriTipi\SwitchCaseAtmUygulamasi\bin\Debug\SwitchCaseAtmUygulamasi.pdb
+D:\c#\ShortVeriTipi\SwitchCaseAtmUygulamasi\obj\Debug\SwitchCaseAtmUygulamasi.csproj.AssemblyReference.cache
+D:\c#\ShortVeriTipi\SwitchCaseAtmUygulamasi\obj\Debug\SwitchCaseAtmUygulamasi.csproj.SuggestedBindingRedirects.cache
+D:\c#\ShortVeriTipi\SwitchCaseAtmUygulamasi\obj\Debug\SwitchCaseAtmUygulamasi.csproj.CoreCompileInputs.cache
+D:\c#\ShortVeriTipi\SwitchCaseAtmUygulamasi\obj\Debug\SwitchCaseAtmUygulamasi.exe
+D:\c#\ShortVeriTipi\SwitchCaseAtmUygulamasi\obj\Debug\SwitchCaseAtmUygulamasi.pdb
